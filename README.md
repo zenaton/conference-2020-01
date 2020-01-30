@@ -15,7 +15,7 @@
   <a href="https://app.zenaton.com/tutorial/node" target="_blank"> Tutorial in Node.js </a> <br>
 </p>
 
-# Zenaton examples for Node.js
+# Examples From Zenaton User Conference of January 2020
 
 This repository contains examples of workflows built with Zenaton and presented during our conference in January 2020. 
 
