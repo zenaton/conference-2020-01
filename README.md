@@ -101,3 +101,9 @@ node launch_version.js
 ```
 
 Uncomment "VersionWorkflow_v1" or "VersionWorkflow_v2" in boot.js file in order use different versions.
+
+## Example 6: Example of document validation workflow
+
+```node
+node launch_document.js
+```
